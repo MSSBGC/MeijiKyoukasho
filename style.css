@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "明治敎科書躰";
+  src: url(Meijikyokasho.ttf);
+}
+
+body {
+  font-family: "明治敎科書躰";
+}
