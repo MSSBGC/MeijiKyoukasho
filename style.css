@@ -3,6 +3,10 @@
   src: url(MeijiKyokasho.ttf);
 }
 
+p {
+  font-size: 20px;
+}
+
 p.Meiji {
   font-family: "明治敎科書躰";
 }
